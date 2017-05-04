@@ -1,0 +1,9 @@
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\bin\Debug\генератор аштимээл.exe.config
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\bin\Debug\генератор аштимээл.exe
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\bin\Debug\генератор аштимээл.pdb
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор аштимээл.csprojResolveAssemblyReference.cache
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор_аштимээл.Form1.resources
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор_аштимээл.Properties.Resources.resources
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор аштимээл.csproj.GenerateResource.Cache
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор аштимээл.exe
+c:\users\егор\documents\visual studio 2013\Projects\генератор аштимээл\генератор аштимээл\obj\Debug\генератор аштимээл.pdb
