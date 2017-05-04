@@ -1,0 +1,18 @@
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\егор\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\psf\Home\Desktop\пробник\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
